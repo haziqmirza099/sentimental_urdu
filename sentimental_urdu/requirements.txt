@@ -1,0 +1,11 @@
+Flask==2.0.2
+joblib==1.0.1
+spacy
+speechrecognition==3.8.1
+pydub==0.25.1
+urduhack==1.1.1
+scikit-learn
+Werkzeug==2.0
+wfastcgi==3.0.0
+streamlit
+streamlit_webrtc
